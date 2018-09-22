@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/CHANGEME.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw04-klang.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
 
 # PHYS220/MATH220/CPSC220 CW 4
 
