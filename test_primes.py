@@ -39,7 +39,7 @@ def test_gen_eratosthenes_last():
         p, p2 = p2, next(g)
     assert p == 199
 
-def test_gen_eratosthenes_number()
+def test_gen_eratosthenes_number():
     """Verify the number of primes less than 200.
     """
     g = primes.gen_eratosthenes()
