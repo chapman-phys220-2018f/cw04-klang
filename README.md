@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 4
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Trevor Kling,**
 
 ## Specification
 
@@ -26,9 +26,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+I found the use of Jupytr notebooks to present results particularly informative.  The assignment helped to demonstrate the value of having a joint space in which code can be run and text can be formatted.  My only lingering question is if LaTeX formatting is a feature of Jupytr or of Markdown.  The formatting works fine in the actual notebooks, but not in Github.  Is this issue exclusive to the method Github uses to handle these problems?
 
 ## Honor Pledge
 
@@ -39,4 +37,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Trevor Kling,**
