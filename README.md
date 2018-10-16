@@ -28,6 +28,8 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 I found the use of Jupytr notebooks to present results particularly informative.  The assignment helped to demonstrate the value of having a joint space in which code can be run and text can be formatted.  My only lingering question is if LaTeX formatting is a feature of Jupytr or of Markdown.  The formatting works fine in the actual notebooks, but not in Github.  Is this issue exclusive to the method Github uses to handle these problems?
 
+**$\LaTeX$ fomatting is mostly a feature of Jupyter. The Markdown rendering in GitHub is not as complete as in Jupyter (with the apparent exception of emojis. The reason for the discrepancies are mostly security-related.**
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
